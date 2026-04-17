@@ -1,0 +1,13 @@
+# Ignore large dataset files
+data/seccode/*.bin
+data/seccode/*.pkl
+
+# Ignore raw repositories (likely huge)
+data/seccode/raw_repos/
+
+# Ignore checkpoints (can grow big later)
+data/seccode/ckpt.pt
+
+# Python cache
+__pycache__/
+*.pyc

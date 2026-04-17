@@ -1,0 +1,6 @@
+torch
+tiktoken
+fastapi
+uvicorn
+pytest
+robotframework
